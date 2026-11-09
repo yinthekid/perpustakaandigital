@@ -10,6 +10,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Evolution of the Mode of Nutrition in Symbiotic and Saprotrophic Fungi in Forest Ecosystems](ebook/Evolution of the Mode of Nutrition in Symbiotic and Saprotrophic Fungi in Forest Ecosystems.pdf) - Annie Lebreton dkk (2021)
 8. [Pendekatan Arsitektur Naratif pada Desain Ruang Baca Anak di Perpustakaan Digital](ebook/Pendekatan Arsitektur Naratif pada Desain Ruang Baca Anak di Perpustakaan Digital.pdf) - Gresita Indah Lestari dan Dhini Dewiyanti (2025)
 9. [Study on the existence and characteristic of Sonokeling](ebook/Study on the existence and characteristics of Sonokeling.pdf) - W Dwianto dkk (2019)
-10. [Pengaruh Penggunaan Kompos Daun Bambu Terhadap Pertumbuhan Semai Sonokeling](ebook/Pengaruh Penggunaan Kompos Daun Bambu Terhadap Pertumbuhan Semai Sonokeling.pdf) - Agung Gumelar dkk (2021) 
+10. [Pengaruh Penggunaan Kompos Daun Bambu Terhadap Pertumbuhan Semai Sonokeling](ebook/Pengaruh Penggunaan Kompos Daun Bambu Terhadap Pertumbuhan Semai Sonokeling.pdf) - Agung Gumelar dkk (2021)
+11. [Floristic Composition and Diversity at Keruing](ebook/Floristic composition and diversity at keruing.pdf) - Arida Susilowati dkk (2021)
 ---
 *Powered by GitHub Pages*
