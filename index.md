@@ -8,7 +8,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Forest experience and psychological health benefits: the state of the art and future prospect in Korea](ebook/Forest experience and psychological health benefits: the state of the art and future prospect in Korea.pdf) – Won Sop Shin dkk (2010)
 5. [The Application of Ficus Species](ebook/The Application of Ficus Species.pdf) - Adib Alam dan Papiya Mitra Mazumder (2024)
 7. [Evolution of the Mode of Nutrition in Symbiotic and Saprotrophic Fungi in Forest Ecosystems](ebook/Evolution of the Mode of Nutrition in Symbiotic and Saprotrophic Fungi in Forest Ecosystems.pdf) - Annie Lebreton dkk (2021)
-8. [Pendekatan Arsitektur Naratif pada Desain Ruang Baca Anak di Perpustakaan Digital](ebook/Pendekatan Arsitektur Naratif pada Desain Ruang Baca Anak di Perpustakaan Digital) - Gresita Indah Lestari dan Dhini Dewiyanti (2025)
-9. [Study on the existence and characteristic of Sonokeling](ebook/Study on the existence and characteristics of Sonokeling) - W Dwianto dkk (2019)
+8. [Pendekatan Arsitektur Naratif pada Desain Ruang Baca Anak di Perpustakaan Digital](ebook/Pendekatan Arsitektur Naratif pada Desain Ruang Baca Anak di Perpustakaan Digital.pdf) - Gresita Indah Lestari dan Dhini Dewiyanti (2025)
+9. [Study on the existence and characteristic of Sonokeling](ebook/Study on the existence and characteristics of Sonokeling.pdf) - W Dwianto dkk (2019)
+10. [Pengaruh Penggunaan Kompos Daun Bambu Terhadap Pertumbuhan Semai Sonokeling](ebook/Pengaruh Penggunaan Kompos Daun Bambu Terhadap Pertumbuhan Semai Sonokeling.pdf) - Agung Gumelar dkk (2021) 
 ---
 *Powered by GitHub Pages*
