@@ -13,5 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [The Metamorphosis](ebook/The Metamorphosis.pdf) - Franz Kafka (1915)
 10. [The Odyssey](ebook/The Odyssey.pdf) - Homer (1488)
 11. [The Old Man and Sea](ebook/The Old Man and Sea.pdf) - Ernest Hemingway (1952)
+12. [Rangkuman UGC](ebook/Rangkuman UGC.pdf) - Riani Rohma Syahira (2026)
 ---
 *Powered by GitHub Pages*
